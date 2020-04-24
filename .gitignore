@@ -1,0 +1,12 @@
+.vscode/
+Debug/
+Debug_native/
+Release_native/
+CMakeFiles/
+# 忽略所有build文件夹，包括子目录下的build文件夹
+build/
+*/CMakeFiles/
+*.gch
+Release/
+*.out
+*/.gitkeep
